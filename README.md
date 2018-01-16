@@ -16,13 +16,9 @@ cd React-Router-v4-reference
 
 npm install 
 
-=============
-
 ## Test server:
 
 npm start
-
-=============
 
 ## Build:
 
